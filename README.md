@@ -25,7 +25,7 @@ My background also includes consultative sales, team leadership, and management 
 <img align="left" alt="SQL" width="120px" src="https://i.pinimg.com/736x/61/85/9d/61859de41676d7b22e8afe4065a7ea7f.jpg" />
 <img align="left" alt="Excel" width="250px" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img align="left" alt="Power BI" width="120px" src="https://i.pinimg.com/1200x/a7/4f/20/a74f2088b690a02fb9639f077831fd45.jpg" />
-<img align="left" alt="Google Cloud" width="200px" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" />
+<img align="left" alt="AWS" width="200px" src="https://i.pinimg.com/736x/a2/5e/d8/a25ed8f7bad940e25a8565c8eed04961.jpg" />
 <img align="left" alt="Cat" width="120px" src="https://i.pinimg.com/736x/9f/0a/04/9f0a0425ce7f3540fd8a7a5e247df637.jpg" />
 <br><br>
 
