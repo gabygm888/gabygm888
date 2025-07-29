@@ -21,27 +21,12 @@ My background also includes consultative sales, team leadership, and management 
 
 ###  
 
-<img align="left" alt="Python" width="100px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img align="left" alt="MySQL" width="40px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="left" alt="Excel" width="40px" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img align="left" alt="Power BI" width="40px" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" />
-<img align="left" alt="Google Cloud" width="40px" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img align="left" alt="Python" width="500px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" alt="MySQL" width="500px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="left" alt="Excel" width="500px" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img align="left" alt="Power BI" width="500px" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" />
+<img align="left" alt="Google Cloud" width="500px" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <br><br>
 
 ---
 
-###  My numbers
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabyx7677&show_icons=true&theme=dark" alt="Estadísticas de GitHub" />
-</p>
-
----
-
-###  Contact
-
-- LinkedIn: [Tu perfil](https://www.linkedin.com/in/tuusuario/)
-- Correo: tu.email@ejemplo.com
-- Página web / portfolio (si tienes uno)
-
----
