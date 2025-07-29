@@ -30,5 +30,17 @@ My background also includes consultative sales, team leadership, and management 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
