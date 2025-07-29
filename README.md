@@ -21,7 +21,7 @@ My background also includes consultative sales, team leadership, and management 
 
 ###  
 
-<img align="left" alt="Python" width="100px" src="https://i.pinimg.com/736x/8a/72/c1/8a72c1275181519730516b1cf5cbf463.jpg" />
+<img align="left" alt="Python" width="150px" src="https://i.pinimg.com/736x/a0/14/07/a01407efcae7af32dbf444905a386db0.jpg" />
 <img align="left" alt="MySQL" width="250px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="Excel" width="250px" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img align="left" alt="Power BI" width="250px" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" />
