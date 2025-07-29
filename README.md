@@ -1,7 +1,6 @@
-<h1 align="center"></h1>
+<h1 align="center">My pholio</h1>
 
 
-## About Me
 
 Data Scientist and Electrical Engineer with experience in the energy sector, predictive analytics, and cloud-based solutions. I combine engineering and data science to solve complex business and operational challenges.
 
