@@ -1,4 +1,4 @@
-<h1 align="center">My Pholio</h1>
+<h1 align="center">⚡     My Pholio     📊</h1>
 
 
 
