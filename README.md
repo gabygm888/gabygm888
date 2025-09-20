@@ -2,18 +2,18 @@
 
 
 
-Data Scientist and Electrical Engineer with experience in the energy sector, predictive analytics, and cloud-based solutions. I combine engineering and data science to solve complex business and operational challenges.
+Data Scientist & Data Engineer with a background in Electrical Engineering and experience across the energy, retail, and technology sectors. I specialize in building end-to-end data solutions — from large-scale pipelines and predictive models to interactive dashboards that drive strategic decision-making.
 
-Specialized in data analysis, predictive modeling, and workflow automation using tools such as:
+🔹 Strong expertise in:
+- **Data Engineering & Pipelines**: ETL, PySpark, SQL, AWS (S3, Lambda, Glue, SageMaker), Databricks  
+- **Data Science & Machine Learning**: Python, Pandas, Scikit-learn, TensorFlow, PyTorch, time series, predictive modeling  
+- **Visualization & Apps**: Power BI, Streamlit, Tableau  
+- **Cloud & MLOps**: AWS, CI/CD, APIs, model deployment  
 
-- Python, Pandas, Scikit-learn  
-- SQL and relational databases  
-- Power BI and Streamlit  
-- AWS (Glue, S3, Athena)
+My goal is to transform complex datasets into actionable insights and scalable solutions that generate measurable impact. With a mix of technical depth and business vision, I thrive at the intersection of **engineering, data, and strategy**.
 
-Experienced in building large-scale data pipelines with a strategic, results-driven approach. I turn raw data into high-impact decisions.
+Outside of pure data, I bring experience in consultative sales, project leadership, and technical bids — a combination that allows me to not only build solutions but also align them with business growth.  
 
-My background also includes consultative sales, team leadership, and management of technical bids. I consider myself a driven, communicative, and proactive professional — always focused on delivering value and growing continuously.
 
 
 
