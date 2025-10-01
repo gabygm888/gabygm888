@@ -25,7 +25,7 @@ Outside of pure data, I bring experience in consultative sales, project leadersh
 <img align="left" alt="AWS" width="100px" src="https://i.pinimg.com/736x/a2/5e/d8/a25ed8f7bad940e25a8565c8eed04961.jpg" />
 <img align="left" alt="Excel" width="100px" src="https://i.pinimg.com/1200x/33/de/98/33de98ac69cb01c621abafc4d172d772.jpg" />
 <img align="left" alt="Power BI" width="100px" src="https://i.pinimg.com/1200x/a7/4f/20/a74f2088b690a02fb9639f077831fd45.jpg" />
-<img align="left" alt="Databricks" width="100px" src="https://logos-world.net/wp-content/uploads/2024/01/Databricks-Emblem.png" />
+<img align="left" alt="Databricks" width="150px" src="https://logos-world.net/wp-content/uploads/2024/01/Databricks-Emblem.png" />
 <br><br>
 
 
