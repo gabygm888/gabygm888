@@ -20,11 +20,12 @@ Outside of pure data, I bring experience in consultative sales, project leadersh
 ---
  
 
-<img align="left" alt="Python" width="149px" src="https://i.pinimg.com/736x/a0/14/07/a01407efcae7af32dbf444905a386db0.jpg" />
-<img align="left" alt="SQL" width="149px" src="https://i.pinimg.com/736x/61/85/9d/61859de41676d7b22e8afe4065a7ea7f.jpg" />
-<img align="left" alt="AWS" width="149px" src="https://i.pinimg.com/736x/a2/5e/d8/a25ed8f7bad940e25a8565c8eed04961.jpg" />
-<img align="left" alt="Excel" width="149px" src="https://i.pinimg.com/1200x/33/de/98/33de98ac69cb01c621abafc4d172d772.jpg" />
-<img align="left" alt="Power BI" width="149px" src="https://i.pinimg.com/1200x/a7/4f/20/a74f2088b690a02fb9639f077831fd45.jpg" />
+<img align="left" alt="Python" width="100px" src="https://i.pinimg.com/736x/a0/14/07/a01407efcae7af32dbf444905a386db0.jpg" />
+<img align="left" alt="SQL" width="100px" src="https://i.pinimg.com/736x/61/85/9d/61859de41676d7b22e8afe4065a7ea7f.jpg" />
+<img align="left" alt="AWS" width="100px" src="https://i.pinimg.com/736x/a2/5e/d8/a25ed8f7bad940e25a8565c8eed04961.jpg" />
+<img align="left" alt="Excel" width="100px" src="https://i.pinimg.com/1200x/33/de/98/33de98ac69cb01c621abafc4d172d772.jpg" />
+<img align="left" alt="Power BI" width="100px" src="https://i.pinimg.com/1200x/a7/4f/20/a74f2088b690a02fb9639f077831fd45.jpg" />
+<img align="left" alt="Databricks" width="100px" src="[https://i.pinimg.com/1200x/a7/4f/20/a74f2088b690a02fb9639f077831fd45.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fdatabricks-logo%2F&psig=AOvVaw0TAv2_1qeELPzSlkNdKGng&ust=1759445277177000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCICNjMmKhJADFQAAAAAdAAAAABAE)" />
 <br><br>
 
 
