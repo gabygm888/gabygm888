@@ -2,17 +2,18 @@
 
 
 
-Data Scientist & Data Engineer with a background in Electrical Engineering and experience across the energy, retail, and technology sectors. I specialize in building end-to-end data solutions — from large-scale pipelines and predictive models to interactive dashboards that drive strategic decision-making.
+**Data Scientist & Data Engineer** with a background in **Electrical Engineering** and hands-on experience across the **energy, retail, and technology** sectors. I design and implement **end-to-end data solutions** — from automated ingestion and transformation pipelines to predictive models and dashboards that enable data-driven decision-making at scale.
 
-🔹 Strong expertise in:
-- **Data Engineering & Pipelines**: ETL, PySpark, SQL, AWS (S3, Lambda, Glue, SageMaker), Databricks  
-- **Data Science & Machine Learning**: Python, Pandas, Scikit-learn, TensorFlow, PyTorch, time series, predictive modeling  
-- **Visualization & Apps**: Power BI, Streamlit, Tableau  
-- **Cloud & MLOps**: AWS, CI/CD, APIs, model deployment  
+**Strong expertise in:**
+- **Data Engineering & Orchestration:** Databricks (Delta Live Tables, Jobs, Workflows, SQL Warehouses), PySpark, Fivetran, AWS (S3, Glue, Lambda), ETL/ELT automation, and scalable data architectures (Medallion).
+- **Machine Learning & Analytics:** Python, Pandas, Scikit-learn, TensorFlow, PyTorch, feature engineering, time series forecasting, and MLflow for model tracking and deployment.
+- **Data Visualization & BI:** Power BI, Databricks SQL Dashboards, Tableau, and Streamlit for interactive analytics and reporting.
+- **Cloud & MLOps:** AWS, Databricks Repos, CI/CD pipelines, REST APIs, and model deployment workflows.
 
-My goal is to transform complex datasets into actionable insights and scalable solutions that generate measurable impact. With a mix of technical depth and business vision, I thrive at the intersection of **engineering, data, and strategy**.
+I specialize in building **reliable, production-ready pipelines** and **machine learning models** that integrate seamlessly with cloud infrastructure — ensuring performance, traceability, and scalability.
 
-Outside of pure data, I bring experience in consultative sales, project leadership, and technical bids — a combination that allows me to not only build solutions but also align them with business growth.  
+With a blend of **technical depth and business insight**, I thrive at the intersection of **engineering, data, and strategy**, delivering solutions that not only work — they move the needle.
+
 
 
 
